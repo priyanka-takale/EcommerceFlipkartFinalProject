@@ -80,7 +80,7 @@ public class Calling {
 	input13[1]="Mumbai";
 	SeleniumOperations.sendKeys(input13);	
 	
-	//send Keys Method for Locality
+	//send Keys Method for address
 	Object[] input14=new Object[2];
 	input14[0]="//*[@class='_1sQQBU _1w3ZZo _1TO48q']";
 	input14[1]="Near Saint Dominic Savio High School Andheri east";

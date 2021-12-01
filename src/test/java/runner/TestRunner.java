@@ -10,7 +10,7 @@ import io.cucumber.junit.CucumberOptions;
                     (
 		               features="src/test/resources/BuzinessLogic",
 		               glue="cucumbermap",
-                       tags="@SmokeTest",
+                       tags="@RegressionTest",
 	                   plugin="pretty",
 		               dryRun=false,
 		               monochrome=true
